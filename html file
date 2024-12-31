@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StarHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <nav>
+            <div class="nav-inner">
+                <div class="left">
+                    <div class="logo"></div>
+                    <p class="name">StarHub</p>
+                    <a href="https://beacons.ai/starhub12">Sideloady Downloads</a>
+                    <a href="documentation.html">Documentation</a>
+                    <a href="about.html">About</a>
+                </div>
+                <div class="right">
+                    <button>Log In</button>
+                    <button class="cta">Sign Up</button>
+                </div>
+            </div>
+        </nav>
+
+        <section class="hero">
+            <div class="header-container">
+                <h1>Transform your iOS Device with our support and downloads</h1>
+                <h4>Experience the full potential of your iOS device with our powerful tools and support. Try it today!</h4>
+            </div>
+            <div class="buttons">
+                <a href="https://www.youtube.com/watch?v=8zHUc8mrzvI">
+                    <button class="cta">Watch Demo</button>
+                </a>
+                <a href="https://ivi.cx/i/cfg?67707a94">
+                    <button class="cta">Get started modding your iOS device</button>
+                </a>
+            </div>
+        </section>
+
+        <section class="features">
+            <h2>Our Features</h2>
+            <div class="grid">
+                <div class="tile large">
+                    <div class="text">
+                        <h3>Feature 1</h3>
+                        <p>watch this video to learn how to download scarlet.</p>
+                    </div>
+                    <div class="media">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/pHNNRhmprJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="tile small">
+                    <div class="text">
+                        <h3>Feature 2</h3>
+                        <p>we have our own yt channel .</p>
+                    </div>
+                    <div class="media">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/8zHUc8mrzvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="tile small">
+                    <div class="text">
+                        <h3>Feature 3</h3>
+                        <p>cool stuff fr</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="inner">
+                <div class="column">
+                    <div class="logo"></div>
+                    <p class="name">StarHub</p>
+                    <a href="https://discord.gg/sVF539kRRY">Join our Discord</a>
+                </div>
+                <div class="column">
+                    <p>Features</p>
+                    <a href="#">Connections</a>
+                    <a href="#">Integrations</a>
+                    <a href="#">Relationships</a>
+                    <a href="#">Associations</a>
+                </div>
+                <div class="column">
+                    <p>Handy Links</p>
+                    <a href="#">Pricing</a>
+                    <a href="#">Documentation</a>
+                    <a href="#">About</a>
+                    <a href="#">Forum</a>
+                    <a href="#">Status</a>
+                    <a href="#">Brand Kit</a>
+                </div>
+                <div class="column">
+                    <p>Legal</p>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms and Conditions</a>
+                </div>
+            </div>
+        </footer>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
