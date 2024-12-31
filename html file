@@ -45,7 +45,7 @@
                 <div class="tile large">
                     <div class="text">
                         <h3>Feature 1</h3>
-                        <p>watch this video to learn how to download scarlet.</p>
+                        <p>A very cool feature that we’re highlighting here. A very cool feature that we’re highlighting here.</p>
                     </div>
                     <div class="media">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/pHNNRhmprJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -57,7 +57,7 @@
                 <div class="tile small">
                     <div class="text">
                         <h3>Feature 2</h3>
-                        <p>we have our own yt channel .</p>
+                        <p>A very cool feature that we’re highlighting here.</p>
                     </div>
                     <div class="media">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/8zHUc8mrzvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -66,7 +66,7 @@
                 <div class="tile small">
                     <div class="text">
                         <h3>Feature 3</h3>
-                        <p>cool stuff fr</p>
+                        <p>A very cool feature that we’re highlighting here.</p>
                     </div>
                 </div>
             </div>
